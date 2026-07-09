@@ -1,0 +1,1155 @@
+{
+  "stage": "1013V_VISUAL_SYSTEM_POLISH_LINE",
+  "phase": "V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY",
+  "build_stage": "1013V_V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY",
+  "current_visual_baseline": "R97B",
+  "human_selected_direction": "C_NOTEBOOK_PAPER",
+  "stability_reference": "A_TEACHER_WORKBENCH",
+  "toolbar_policy": "kept-expanded-by-human-request",
+  "formal_apply": "NOT_READY",
+  "source_v2c_modified": false,
+  "started_at": "2026-07-09T09:26:55.634Z",
+  "cases": [
+    {
+      "id": "v2d_selected_C_1366",
+      "direction": "C",
+      "source_path": "outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html",
+      "screenshot": "screenshots/v2d_selected_C_1366.png",
+      "viewport": {
+        "id": "1366",
+        "width": 1366,
+        "height": 768,
+        "deviceScaleFactor": 1
+      },
+      "url": "http://127.0.0.1:61662/outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html?review=v2d-capture-1366",
+      "screenshot_bytes": 235048,
+      "screenshot_dimensions": {
+        "width": 1366,
+        "height": 768
+      },
+      "dom_metrics": {
+        "viewport": {
+          "width": 1366,
+          "height": 768,
+          "devicePixelRatio": 1
+        },
+        "title": "师维 · 备课室 | R104E P6 展开区密度修复",
+        "current_shell": "R97B",
+        "r220b_shell_binding": "true",
+        "derived_v2_polish": true,
+        "derived_v2a_polish": true,
+        "derived_v2b_polish": true,
+        "derived_v2c_polish": true,
+        "derived_v2d_polish": true,
+        "primary_direction": "C_NOTEBOOK_PAPER",
+        "stability_reference": "A_TEACHER_WORKBENCH",
+        "v2d_derived_preview": true,
+        "toolbar_policy": "kept-expanded-by-human-request",
+        "has_ownership_map": true,
+        "has_resolve_shell_layer": true,
+        "has_resolve_render_slot": true,
+        "shell_layers": {
+          "app_shell": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1366,
+              "height": 67,
+              "right": 1366,
+              "bottom": 67
+            }
+          },
+          "workspace_shell": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 67,
+              "width": 1366,
+              "height": 65,
+              "right": 1366,
+              "bottom": 132
+            }
+          },
+          "render_surface": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 132,
+              "width": 1366,
+              "height": 576,
+              "right": 1366,
+              "bottom": 708
+            }
+          },
+          "lesson_content_renderer": {
+            "found": true,
+            "rect": {
+              "x": 319,
+              "y": 206,
+              "width": 635,
+              "height": 456,
+              "right": 954,
+              "bottom": 662
+            }
+          },
+          "right_rail": {
+            "found": true,
+            "rect": {
+              "x": 1024,
+              "y": 212,
+              "width": 292,
+              "height": 285,
+              "right": 1316,
+              "bottom": 497
+            }
+          },
+          "bottom_xiaojiao": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 708,
+              "width": 1366,
+              "height": 60,
+              "right": 1366,
+              "bottom": 768
+            }
+          }
+        },
+        "render_slots": {
+          "app_topbar": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1366,
+              "height": 67,
+              "right": 1366,
+              "bottom": 67
+            },
+            "text": "✦\n师维\n| 教师AI工作台\n大厅\n教室\n备课室\n课堂观察\n作品馆\n知识馆\n档案室\n通知\n2\n教师账号"
+          },
+          "render_stage": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 181,
+              "width": 1366,
+              "height": 527,
+              "right": 1366,
+              "bottom": 708
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "active_render_layer": {
+            "found": true,
+            "rect": {
+              "x": 18,
+              "y": 187,
+              "width": 1330,
+              "height": 521,
+              "right": 1348,
+              "bottom": 708
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "left_unit_tree": {
+            "found": true,
+            "rect": {
+              "x": 43,
+              "y": 206,
+              "width": 270,
+              "height": 456,
+              "right": 313,
+              "bottom": 662
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "lesson_body": {
+            "found": true,
+            "rect": {
+              "x": 319,
+              "y": 206,
+              "width": 635,
+              "height": 456,
+              "right": 954,
+              "bottom": 662
+            },
+            "text": "第二单元 多彩的世界\n2-1《色彩的渐变》\n待教师确认\n需补充材料\n课堂联动已预览\n依据与材料\n下游影响\n查看状态\n进入编辑\n更多\n一、本课依据\n进入编辑\n本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。\n教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。\n本地旧 AI "
+          },
+          "teaching_process": {
+            "found": true,
+            "rect": {
+              "x": 367,
+              "y": 1722,
+              "width": 524,
+              "height": 3173,
+              "right": 891,
+              "bottom": 4895
+            },
+            "text": "六、教学过程\n重点关注课堂如何推进\n观察比较型 · 约5分钟 原模板 · 已在原模板中\n1. 看见渐变\n进入编辑\n\n引导学生观察生活和教材图中的色彩连续变化，初步建立渐变感知。\n\n师\n教师组织\n静看图片，先找颜色从哪里变到哪里\n用手指出方向，再用一句话说出来\n用“慢慢变”引出本课的渐变\n生\n学生学习\n\n能指出颜色变化方"
+          },
+          "right_rail": {
+            "found": true,
+            "rect": {
+              "x": 1024,
+              "y": 212,
+              "width": 292,
+              "height": 285,
+              "right": 1316,
+              "bottom": 497
+            },
+            "text": "下游影响预览\n轻预览\n课件制作\n这份教案将影响\n课堂大屏：生成 2 页观察引导\n学习单：生成 1 个找渐变任务\n评价点：记录学生能否说出颜色变化方向\n预览课堂材料\n查看全部"
+          },
+          "bottom_xiaojiao": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 708,
+              "width": 1366,
+              "height": 60,
+              "right": 1366,
+              "bottom": 768
+            },
+            "text": "小\n上传资料\n语音输入\n发送"
+          }
+        },
+        "layout": {
+          "scene": {
+            "x": 18,
+            "y": 187,
+            "width": 1330,
+            "height": 493,
+            "right": 1348,
+            "bottom": 680
+          },
+          "binder": {
+            "x": 28,
+            "y": 191,
+            "width": 969,
+            "height": 489,
+            "right": 997,
+            "bottom": 680
+          },
+          "left_panel": {
+            "x": 43,
+            "y": 206,
+            "width": 270,
+            "height": 456,
+            "right": 313,
+            "bottom": 662
+          },
+          "lesson_workspace": {
+            "x": 319,
+            "y": 206,
+            "width": 635,
+            "height": 456,
+            "right": 954,
+            "bottom": 662
+          },
+          "lesson_header": {
+            "x": 367,
+            "y": 241,
+            "width": 524,
+            "height": 113,
+            "right": 891,
+            "bottom": 354
+          },
+          "right_rail": {
+            "x": 1024,
+            "y": 212,
+            "width": 292,
+            "height": 285,
+            "right": 1316,
+            "bottom": 497
+          },
+          "bottom_xiaojiao": {
+            "x": 0,
+            "y": 708,
+            "width": 1366,
+            "height": 60,
+            "right": 1366,
+            "bottom": 768
+          },
+          "notebook_inner_bottom_rim": {
+            "binder_to_panel": 18,
+            "binder_to_workspace": 18,
+            "binder_to_right_rail": -183,
+            "binder_to_bottom_xiaojiao": 28,
+            "binder_background_color": "rgb(241, 239, 225)",
+            "binder_border_bottom": "2px solid rgba(95, 84, 56, 0.4)",
+            "workspace_background_color": "rgb(255, 253, 247)",
+            "workspace_border_bottom": "1px solid rgba(0, 0, 0, 0)"
+          },
+          "workspace_width_ratio": 0.465,
+          "scene_full_width": true,
+          "right_rail_reaches_right": true
+        },
+        "visual_contract": {
+          "toolbar_kept_expanded": true,
+          "toolbar_rows": 1,
+          "toolbar_rect": {
+            "x": 62,
+            "y": 139,
+            "width": 1286,
+            "height": 36,
+            "right": 1348,
+            "bottom": 175
+          },
+          "total_tool_buttons": 13,
+          "visible_tool_buttons": 13,
+          "visible_primary_buttons": [
+            {
+              "tool": "textbook",
+              "text": "教材解析",
+              "button_rect": {
+                "x": 102,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 214,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 142,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 198,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            },
+            {
+              "tool": "edit",
+              "text": "进入编辑",
+              "button_rect": {
+                "x": 220,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 332,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 260,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 316,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            },
+            {
+              "tool": "xiaojiao",
+              "text": "小教推进",
+              "button_rect": {
+                "x": 338,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 450,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 378,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 434,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            }
+          ],
+          "visible_primary_count": 3,
+          "primary_all_single_line": true,
+          "primary_all_svg_icons": true,
+          "paper_grid_background": "linear-gradient(rgba(46, 101, 78, 0.024) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(129, 116, 80, 0.02) 1px, rgba(0, 0, 0, 0) 1px), none",
+          "canvas_grid_background": "linear-gradient(rgba(99, 103, 76, 0.027) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(99, 103, 76, 0.02) 1px, rgba(0, 0, 0, 0) 1px), none",
+          "paper_background_color": "rgb(255, 253, 247)",
+          "left_panel_opacity": 0.74,
+          "quiet_left_node_opacity": 0.52,
+          "active_left_node_opacity": 1,
+          "right_rail_summary_present": true,
+          "right_rail_summary_item_count": 3,
+          "right_rail_action_count": 2,
+          "right_rail_copy_ok": true,
+          "bottom_system_bar": true,
+          "bottom_height": 60,
+          "xiaojiao_placeholder": "告诉小教：要补材料、改这一段，还是继续生成课堂联动？"
+        },
+        "forbidden_visible_terms": [],
+        "forbidden_accessible_terms": [],
+        "body_text_sample": "✦\n师维\n| 教师AI工作台\n大厅\n教室\n备课室\n课堂观察\n作品馆\n知识馆\n档案室\n通知\n2\n教师账号\n2025学年第二学期\n苏少版美术\n三年级\n16周\n备课室\n· 备课本\n周课表\n备课本\n班级排课\n学期规划\nAI\n常用\n教材解析\n进入编辑\n小教推进\n设计工具\n更多\n三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元\n2-1\n色彩的渐变\n2-2\n渐变的节奏\n2-3\n多彩的生活\n第三单元 辽阔的海洋\n大单元\n3-1\n奇异的海洋生物\n3-2\n跳动的蓝色心脏\n3-3\n守护生命的摇篮\n第四单元 红领巾告诉我\n大单元\n4-1\n种下红色种子\n4-2\n传承红色精神\n专题 青绿中国色\n大单元\nT-1\n青绿中国色\n第五单元 足下生辉\n大单元\n5-1\n走过四季\n5-2\n魅力鞋汇\n5-3\n时空“履”行\n第六单元 装点生活\n大单元\n6-1\n纹样有特点\n6-2\n纹样的魅力\n第七单元 虎虎生威\n大单元\n7-1\n虎虎虎\n7-2\n巧手做老虎\n第八单元 成长日记\n大单元\n8-1\n蓬勃的生命\n8-2\n奔跑的少年\n8-3\n未来的我们\n迁移拓展\n大单元\nX-1\n迁移拓展\n第二单元 多彩的世界\n2-1《色彩的渐变》\n待教师确认\n需补充材料\n课堂联动已预览\n依据与材料\n下游影响\n查看状态\n进入编辑\n更多\n一、本课依据\n进入编辑\n本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。\n教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。\n本地旧 AI 教学资料只能作为渐变技法参考，不能作为教材标准或字段标准。\n教材依据\n已定位\n二、学情分析\n进入编辑\n三年级学生能直观看到颜色深浅、浓淡和鲜灰差异，但容易把渐变理解为把几种颜色并排涂上去。\n他们需要通过色卡排列、颜料试色或纸条排序，把颜色慢慢变化的规律变成可操作步骤。\n本版学情是备课预设，后续应接入课堂记录和教师确认修正。\n待确认\n三、教学目标\n进入编辑\n观察自然和作品中的色彩渐变，知道明度、纯度会影响渐变效果。\n能用调色、拼摆或绘画方式表现有秩序的色彩渐变。"
+      },
+      "pass": true
+    },
+    {
+      "id": "v2d_selected_C_1600",
+      "direction": "C",
+      "source_path": "outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html",
+      "screenshot": "screenshots/v2d_selected_C_1600.png",
+      "viewport": {
+        "id": "1600",
+        "width": 1600,
+        "height": 1000,
+        "deviceScaleFactor": 1
+      },
+      "url": "http://127.0.0.1:61662/outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html?review=v2d-capture-1600",
+      "screenshot_bytes": 336987,
+      "screenshot_dimensions": {
+        "width": 1600,
+        "height": 1000
+      },
+      "dom_metrics": {
+        "viewport": {
+          "width": 1600,
+          "height": 1000,
+          "devicePixelRatio": 1
+        },
+        "title": "师维 · 备课室 | R104E P6 展开区密度修复",
+        "current_shell": "R97B",
+        "r220b_shell_binding": "true",
+        "derived_v2_polish": true,
+        "derived_v2a_polish": true,
+        "derived_v2b_polish": true,
+        "derived_v2c_polish": true,
+        "derived_v2d_polish": true,
+        "primary_direction": "C_NOTEBOOK_PAPER",
+        "stability_reference": "A_TEACHER_WORKBENCH",
+        "v2d_derived_preview": true,
+        "toolbar_policy": "kept-expanded-by-human-request",
+        "has_ownership_map": true,
+        "has_resolve_shell_layer": true,
+        "has_resolve_render_slot": true,
+        "shell_layers": {
+          "app_shell": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1600,
+              "height": 67,
+              "right": 1600,
+              "bottom": 67
+            }
+          },
+          "workspace_shell": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 67,
+              "width": 1600,
+              "height": 65,
+              "right": 1600,
+              "bottom": 132
+            }
+          },
+          "render_surface": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 132,
+              "width": 1600,
+              "height": 808,
+              "right": 1600,
+              "bottom": 940
+            }
+          },
+          "lesson_content_renderer": {
+            "found": true,
+            "rect": {
+              "x": 319,
+              "y": 206,
+              "width": 720,
+              "height": 688,
+              "right": 1039,
+              "bottom": 894
+            }
+          },
+          "right_rail": {
+            "found": true,
+            "rect": {
+              "x": 1199,
+              "y": 212,
+              "width": 330,
+              "height": 267,
+              "right": 1529,
+              "bottom": 479
+            }
+          },
+          "bottom_xiaojiao": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 940,
+              "width": 1600,
+              "height": 60,
+              "right": 1600,
+              "bottom": 1000
+            }
+          }
+        },
+        "render_slots": {
+          "app_topbar": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 1600,
+              "height": 67,
+              "right": 1600,
+              "bottom": 67
+            },
+            "text": "✦\n师维\n| 教师AI工作台\n大厅\n教室\n备课室\n课堂观察\n作品馆\n知识馆\n档案室\n通知\n2\n教师账号"
+          },
+          "render_stage": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 181,
+              "width": 1600,
+              "height": 759,
+              "right": 1600,
+              "bottom": 940
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "active_render_layer": {
+            "found": true,
+            "rect": {
+              "x": 18,
+              "y": 187,
+              "width": 1564,
+              "height": 753,
+              "right": 1582,
+              "bottom": 940
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "left_unit_tree": {
+            "found": true,
+            "rect": {
+              "x": 43,
+              "y": 206,
+              "width": 270,
+              "height": 688,
+              "right": 313,
+              "bottom": 894
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "lesson_body": {
+            "found": true,
+            "rect": {
+              "x": 319,
+              "y": 206,
+              "width": 720,
+              "height": 688,
+              "right": 1039,
+              "bottom": 894
+            },
+            "text": "第二单元 多彩的世界\n2-1《色彩的渐变》\n待教师确认\n需补充材料\n课堂联动已预览\n依据与材料\n下游影响\n查看状态\n进入编辑\n更多\n一、本课依据\n进入编辑\n本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。\n教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。\n本地旧 AI "
+          },
+          "teaching_process": {
+            "found": true,
+            "rect": {
+              "x": 370,
+              "y": 1666,
+              "width": 600,
+              "height": 3083,
+              "right": 970,
+              "bottom": 4748
+            },
+            "text": "六、教学过程\n重点关注课堂如何推进\n观察比较型 · 约5分钟 原模板 · 已在原模板中\n1. 看见渐变\n进入编辑\n\n引导学生观察生活和教材图中的色彩连续变化，初步建立渐变感知。\n\n师\n教师组织\n静看图片，先找颜色从哪里变到哪里\n用手指出方向，再用一句话说出来\n用“慢慢变”引出本课的渐变\n生\n学生学习\n\n能指出颜色变化方"
+          },
+          "right_rail": {
+            "found": true,
+            "rect": {
+              "x": 1199,
+              "y": 212,
+              "width": 330,
+              "height": 267,
+              "right": 1529,
+              "bottom": 479
+            },
+            "text": "下游影响预览\n轻预览\n课件制作\n这份教案将影响\n课堂大屏：生成 2 页观察引导\n学习单：生成 1 个找渐变任务\n评价点：记录学生能否说出颜色变化方向\n预览课堂材料\n查看全部"
+          },
+          "bottom_xiaojiao": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 940,
+              "width": 1600,
+              "height": 60,
+              "right": 1600,
+              "bottom": 1000
+            },
+            "text": "小\n上传资料\n语音输入\n发送"
+          }
+        },
+        "layout": {
+          "scene": {
+            "x": 18,
+            "y": 187,
+            "width": 1564,
+            "height": 725,
+            "right": 1582,
+            "bottom": 912
+          },
+          "binder": {
+            "x": 28,
+            "y": 191,
+            "width": 1142,
+            "height": 721,
+            "right": 1170,
+            "bottom": 912
+          },
+          "left_panel": {
+            "x": 43,
+            "y": 206,
+            "width": 270,
+            "height": 688,
+            "right": 313,
+            "bottom": 894
+          },
+          "lesson_workspace": {
+            "x": 319,
+            "y": 206,
+            "width": 720,
+            "height": 688,
+            "right": 1039,
+            "bottom": 894
+          },
+          "lesson_header": {
+            "x": 370,
+            "y": 241,
+            "width": 600,
+            "height": 113,
+            "right": 970,
+            "bottom": 354
+          },
+          "right_rail": {
+            "x": 1199,
+            "y": 212,
+            "width": 330,
+            "height": 267,
+            "right": 1529,
+            "bottom": 479
+          },
+          "bottom_xiaojiao": {
+            "x": 0,
+            "y": 940,
+            "width": 1600,
+            "height": 60,
+            "right": 1600,
+            "bottom": 1000
+          },
+          "notebook_inner_bottom_rim": {
+            "binder_to_panel": 18,
+            "binder_to_workspace": 18,
+            "binder_to_right_rail": -433,
+            "binder_to_bottom_xiaojiao": 28,
+            "binder_background_color": "rgb(241, 239, 225)",
+            "binder_border_bottom": "2px solid rgba(95, 84, 56, 0.4)",
+            "workspace_background_color": "rgb(255, 253, 247)",
+            "workspace_border_bottom": "1px solid rgba(0, 0, 0, 0)"
+          },
+          "workspace_width_ratio": 0.45,
+          "scene_full_width": true,
+          "right_rail_reaches_right": true
+        },
+        "visual_contract": {
+          "toolbar_kept_expanded": true,
+          "toolbar_rows": 1,
+          "toolbar_rect": {
+            "x": 62,
+            "y": 139,
+            "width": 1520,
+            "height": 36,
+            "right": 1582,
+            "bottom": 175
+          },
+          "total_tool_buttons": 13,
+          "visible_tool_buttons": 13,
+          "visible_primary_buttons": [
+            {
+              "tool": "textbook",
+              "text": "教材解析",
+              "button_rect": {
+                "x": 102,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 214,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 142,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 198,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            },
+            {
+              "tool": "edit",
+              "text": "进入编辑",
+              "button_rect": {
+                "x": 220,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 332,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 260,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 316,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            },
+            {
+              "tool": "xiaojiao",
+              "text": "小教推进",
+              "button_rect": {
+                "x": 338,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 450,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 378,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 434,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            }
+          ],
+          "visible_primary_count": 3,
+          "primary_all_single_line": true,
+          "primary_all_svg_icons": true,
+          "paper_grid_background": "linear-gradient(rgba(46, 101, 78, 0.024) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(129, 116, 80, 0.02) 1px, rgba(0, 0, 0, 0) 1px), none",
+          "canvas_grid_background": "linear-gradient(rgba(99, 103, 76, 0.027) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(99, 103, 76, 0.02) 1px, rgba(0, 0, 0, 0) 1px), none",
+          "paper_background_color": "rgb(255, 253, 247)",
+          "left_panel_opacity": 0.74,
+          "quiet_left_node_opacity": 0.52,
+          "active_left_node_opacity": 1,
+          "right_rail_summary_present": true,
+          "right_rail_summary_item_count": 3,
+          "right_rail_action_count": 2,
+          "right_rail_copy_ok": true,
+          "bottom_system_bar": true,
+          "bottom_height": 60,
+          "xiaojiao_placeholder": "告诉小教：要补材料、改这一段，还是继续生成课堂联动？"
+        },
+        "forbidden_visible_terms": [],
+        "forbidden_accessible_terms": [],
+        "body_text_sample": "✦\n师维\n| 教师AI工作台\n大厅\n教室\n备课室\n课堂观察\n作品馆\n知识馆\n档案室\n通知\n2\n教师账号\n2025学年第二学期\n苏少版美术\n三年级\n16周\n备课室\n· 备课本\n周课表\n备课本\n班级排课\n学期规划\nAI\n常用\n教材解析\n进入编辑\n小教推进\n设计工具\n更多\n三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元\n2-1\n色彩的渐变\n2-2\n渐变的节奏\n2-3\n多彩的生活\n第三单元 辽阔的海洋\n大单元\n3-1\n奇异的海洋生物\n3-2\n跳动的蓝色心脏\n3-3\n守护生命的摇篮\n第四单元 红领巾告诉我\n大单元\n4-1\n种下红色种子\n4-2\n传承红色精神\n专题 青绿中国色\n大单元\nT-1\n青绿中国色\n第五单元 足下生辉\n大单元\n5-1\n走过四季\n5-2\n魅力鞋汇\n5-3\n时空“履”行\n第六单元 装点生活\n大单元\n6-1\n纹样有特点\n6-2\n纹样的魅力\n第七单元 虎虎生威\n大单元\n7-1\n虎虎虎\n7-2\n巧手做老虎\n第八单元 成长日记\n大单元\n8-1\n蓬勃的生命\n8-2\n奔跑的少年\n8-3\n未来的我们\n迁移拓展\n大单元\nX-1\n迁移拓展\n第二单元 多彩的世界\n2-1《色彩的渐变》\n待教师确认\n需补充材料\n课堂联动已预览\n依据与材料\n下游影响\n查看状态\n进入编辑\n更多\n一、本课依据\n进入编辑\n本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。\n教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。\n本地旧 AI 教学资料只能作为渐变技法参考，不能作为教材标准或字段标准。\n教材依据\n已定位\n二、学情分析\n进入编辑\n三年级学生能直观看到颜色深浅、浓淡和鲜灰差异，但容易把渐变理解为把几种颜色并排涂上去。\n他们需要通过色卡排列、颜料试色或纸条排序，把颜色慢慢变化的规律变成可操作步骤。\n本版学情是备课预设，后续应接入课堂记录和教师确认修正。\n待确认\n三、教学目标\n进入编辑\n观察自然和作品中的色彩渐变，知道明度、纯度会影响渐变效果。\n能用调色、拼摆或绘画方式表现有秩序的色彩渐变。"
+      },
+      "pass": true
+    },
+    {
+      "id": "v2d_selected_C_2560",
+      "direction": "C",
+      "source_path": "outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html",
+      "screenshot": "screenshots/v2d_selected_C_2560.png",
+      "viewport": {
+        "id": "2560",
+        "width": 2560,
+        "height": 1440,
+        "deviceScaleFactor": 1
+      },
+      "url": "http://127.0.0.1:61662/outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html?review=v2d-capture-2560",
+      "screenshot_bytes": 529768,
+      "screenshot_dimensions": {
+        "width": 2560,
+        "height": 1440
+      },
+      "dom_metrics": {
+        "viewport": {
+          "width": 2560,
+          "height": 1440,
+          "devicePixelRatio": 1
+        },
+        "title": "师维 · 备课室 | R104E P6 展开区密度修复",
+        "current_shell": "R97B",
+        "r220b_shell_binding": "true",
+        "derived_v2_polish": true,
+        "derived_v2a_polish": true,
+        "derived_v2b_polish": true,
+        "derived_v2c_polish": true,
+        "derived_v2d_polish": true,
+        "primary_direction": "C_NOTEBOOK_PAPER",
+        "stability_reference": "A_TEACHER_WORKBENCH",
+        "v2d_derived_preview": true,
+        "toolbar_policy": "kept-expanded-by-human-request",
+        "has_ownership_map": true,
+        "has_resolve_shell_layer": true,
+        "has_resolve_render_slot": true,
+        "shell_layers": {
+          "app_shell": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 2560,
+              "height": 67,
+              "right": 2560,
+              "bottom": 67
+            }
+          },
+          "workspace_shell": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 67,
+              "width": 2560,
+              "height": 65,
+              "right": 2560,
+              "bottom": 132
+            }
+          },
+          "render_surface": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 132,
+              "width": 2560,
+              "height": 1248,
+              "right": 2560,
+              "bottom": 1380
+            }
+          },
+          "lesson_content_renderer": {
+            "found": true,
+            "rect": {
+              "x": 359,
+              "y": 206,
+              "width": 1700,
+              "height": 1128,
+              "right": 2059,
+              "bottom": 1334
+            }
+          },
+          "right_rail": {
+            "found": true,
+            "rect": {
+              "x": 2119,
+              "y": 212,
+              "width": 405,
+              "height": 267,
+              "right": 2525,
+              "bottom": 479
+            }
+          },
+          "bottom_xiaojiao": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 1380,
+              "width": 2560,
+              "height": 60,
+              "right": 2560,
+              "bottom": 1440
+            }
+          }
+        },
+        "render_slots": {
+          "app_topbar": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 0,
+              "width": 2560,
+              "height": 67,
+              "right": 2560,
+              "bottom": 67
+            },
+            "text": "✦\n师维\n| 教师AI工作台\n大厅\n教室\n备课室\n课堂观察\n作品馆\n知识馆\n档案室\n通知\n2\n教师账号"
+          },
+          "render_stage": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 181,
+              "width": 2560,
+              "height": 1199,
+              "right": 2560,
+              "bottom": 1380
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "active_render_layer": {
+            "found": true,
+            "rect": {
+              "x": 20,
+              "y": 187,
+              "width": 2519,
+              "height": 1193,
+              "right": 2540,
+              "bottom": 1380
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "left_unit_tree": {
+            "found": true,
+            "rect": {
+              "x": 35,
+              "y": 206,
+              "width": 317,
+              "height": 1128,
+              "right": 353,
+              "bottom": 1334
+            },
+            "text": "三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元"
+          },
+          "lesson_body": {
+            "found": true,
+            "rect": {
+              "x": 359,
+              "y": 206,
+              "width": 1700,
+              "height": 1128,
+              "right": 2059,
+              "bottom": 1334
+            },
+            "text": "第二单元 多彩的世界\n2-1《色彩的渐变》\n待教师确认\n需补充材料\n课堂联动已预览\n依据与材料\n下游影响\n查看状态\n进入编辑\n更多\n一、本课依据\n进入编辑\n本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。\n教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。\n本地旧 AI "
+          },
+          "teaching_process": {
+            "found": true,
+            "rect": {
+              "x": 714,
+              "y": 1620,
+              "width": 640,
+              "height": 3023,
+              "right": 1354,
+              "bottom": 4643
+            },
+            "text": "六、教学过程\n重点关注课堂如何推进\n观察比较型 · 约5分钟 原模板 · 已在原模板中\n1. 看见渐变\n进入编辑\n\n引导学生观察生活和教材图中的色彩连续变化，初步建立渐变感知。\n\n师\n教师组织\n静看图片，先找颜色从哪里变到哪里\n用手指出方向，再用一句话说出来\n用“慢慢变”引出本课的渐变\n生\n学生学习\n\n能指出颜色变化方"
+          },
+          "right_rail": {
+            "found": true,
+            "rect": {
+              "x": 2119,
+              "y": 212,
+              "width": 405,
+              "height": 267,
+              "right": 2525,
+              "bottom": 479
+            },
+            "text": "下游影响预览\n轻预览\n课件制作\n这份教案将影响\n课堂大屏：生成 2 页观察引导\n学习单：生成 1 个找渐变任务\n评价点：记录学生能否说出颜色变化方向\n预览课堂材料\n查看全部"
+          },
+          "bottom_xiaojiao": {
+            "found": true,
+            "rect": {
+              "x": 0,
+              "y": 1380,
+              "width": 2560,
+              "height": 60,
+              "right": 2560,
+              "bottom": 1440
+            },
+            "text": "小\n上传资料\n语音输入\n发送"
+          }
+        },
+        "layout": {
+          "scene": {
+            "x": 20,
+            "y": 187,
+            "width": 2519,
+            "height": 1165,
+            "right": 2540,
+            "bottom": 1352
+          },
+          "binder": {
+            "x": 20,
+            "y": 191,
+            "width": 2054,
+            "height": 1161,
+            "right": 2074,
+            "bottom": 1352
+          },
+          "left_panel": {
+            "x": 35,
+            "y": 206,
+            "width": 317,
+            "height": 1128,
+            "right": 353,
+            "bottom": 1334
+          },
+          "lesson_workspace": {
+            "x": 359,
+            "y": 206,
+            "width": 1700,
+            "height": 1128,
+            "right": 2059,
+            "bottom": 1334
+          },
+          "lesson_header": {
+            "x": 714,
+            "y": 241,
+            "width": 980,
+            "height": 124,
+            "right": 1694,
+            "bottom": 365
+          },
+          "right_rail": {
+            "x": 2119,
+            "y": 212,
+            "width": 405,
+            "height": 267,
+            "right": 2525,
+            "bottom": 479
+          },
+          "bottom_xiaojiao": {
+            "x": 0,
+            "y": 1380,
+            "width": 2560,
+            "height": 60,
+            "right": 2560,
+            "bottom": 1440
+          },
+          "notebook_inner_bottom_rim": {
+            "binder_to_panel": 18,
+            "binder_to_workspace": 18,
+            "binder_to_right_rail": -873,
+            "binder_to_bottom_xiaojiao": 28,
+            "binder_background_color": "rgb(241, 239, 225)",
+            "binder_border_bottom": "2px solid rgba(95, 84, 56, 0.4)",
+            "workspace_background_color": "rgb(255, 253, 247)",
+            "workspace_border_bottom": "1px solid rgba(0, 0, 0, 0)"
+          },
+          "workspace_width_ratio": 0.664,
+          "scene_full_width": true,
+          "right_rail_reaches_right": true
+        },
+        "visual_contract": {
+          "toolbar_kept_expanded": true,
+          "toolbar_rows": 1,
+          "toolbar_rect": {
+            "x": 62,
+            "y": 139,
+            "width": 2480,
+            "height": 36,
+            "right": 2542,
+            "bottom": 175
+          },
+          "total_tool_buttons": 13,
+          "visible_tool_buttons": 13,
+          "visible_primary_buttons": [
+            {
+              "tool": "textbook",
+              "text": "教材解析",
+              "button_rect": {
+                "x": 102,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 214,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 142,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 198,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            },
+            {
+              "tool": "edit",
+              "text": "进入编辑",
+              "button_rect": {
+                "x": 220,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 332,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 260,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 316,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            },
+            {
+              "tool": "xiaojiao",
+              "text": "小教推进",
+              "button_rect": {
+                "x": 338,
+                "y": 141,
+                "width": 112,
+                "height": 32,
+                "right": 450,
+                "bottom": 173
+              },
+              "label_rect": {
+                "x": 378,
+                "y": 150,
+                "width": 56,
+                "height": 14,
+                "right": 434,
+                "bottom": 164
+              },
+              "label_nowrap": true,
+              "has_svg_icon": true
+            }
+          ],
+          "visible_primary_count": 3,
+          "primary_all_single_line": true,
+          "primary_all_svg_icons": true,
+          "paper_grid_background": "linear-gradient(rgba(46, 101, 78, 0.024) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(129, 116, 80, 0.02) 1px, rgba(0, 0, 0, 0) 1px), none",
+          "canvas_grid_background": "linear-gradient(rgba(99, 103, 76, 0.027) 1px, rgba(0, 0, 0, 0) 1px), linear-gradient(90deg, rgba(99, 103, 76, 0.02) 1px, rgba(0, 0, 0, 0) 1px), none",
+          "paper_background_color": "rgb(255, 253, 247)",
+          "left_panel_opacity": 0.74,
+          "quiet_left_node_opacity": 0.52,
+          "active_left_node_opacity": 1,
+          "right_rail_summary_present": true,
+          "right_rail_summary_item_count": 3,
+          "right_rail_action_count": 2,
+          "right_rail_copy_ok": true,
+          "bottom_system_bar": true,
+          "bottom_height": 60,
+          "xiaojiao_placeholder": "告诉小教：要补材料、改这一段，还是继续生成课堂联动？"
+        },
+        "forbidden_visible_terms": [],
+        "forbidden_accessible_terms": [],
+        "body_text_sample": "✦\n师维\n| 教师AI工作台\n大厅\n教室\n备课室\n课堂观察\n作品馆\n知识馆\n档案室\n通知\n2\n教师账号\n2025学年第二学期\n苏少版美术\n三年级\n16周\n备课室\n· 备课本\n周课表\n备课本\n班级排课\n学期规划\nAI\n常用\n教材解析\n进入编辑\n小教推进\n设计工具\n更多\n三年级美术 · 2025学年第二学期\n来源：正式课表 + 2025学年第二学期三年级美术教学工作计划\n8节\n正式课位\n1-2\n当前课例\n4项\n待确认\n0次\n写回\n学期工作\n计划\n学期规划\n排课\n班级进度与排课\n周历\n周课表\n第一单元 记录生活\n大单元\n1-1\n画中的生活\n1-2\n流淌的情感\n第二单元 多彩的世界\n大单元\n2-1\n色彩的渐变\n2-2\n渐变的节奏\n2-3\n多彩的生活\n第三单元 辽阔的海洋\n大单元\n3-1\n奇异的海洋生物\n3-2\n跳动的蓝色心脏\n3-3\n守护生命的摇篮\n第四单元 红领巾告诉我\n大单元\n4-1\n种下红色种子\n4-2\n传承红色精神\n专题 青绿中国色\n大单元\nT-1\n青绿中国色\n第五单元 足下生辉\n大单元\n5-1\n走过四季\n5-2\n魅力鞋汇\n5-3\n时空“履”行\n第六单元 装点生活\n大单元\n6-1\n纹样有特点\n6-2\n纹样的魅力\n第七单元 虎虎生威\n大单元\n7-1\n虎虎虎\n7-2\n巧手做老虎\n第八单元 成长日记\n大单元\n8-1\n蓬勃的生命\n8-2\n奔跑的少年\n8-3\n未来的我们\n迁移拓展\n大单元\nX-1\n迁移拓展\n第二单元 多彩的世界\n2-1《色彩的渐变》\n待教师确认\n需补充材料\n课堂联动已预览\n依据与材料\n下游影响\n查看状态\n进入编辑\n更多\n一、本课依据\n进入编辑\n本课对应三年级第二单元《多彩的世界》第1课《色彩的渐变》，教材页码为第6页。\n教材呈现自然中的色彩渐变、色彩明度与纯度变化、渐变排列游戏和学生作品。\n本地旧 AI 教学资料只能作为渐变技法参考，不能作为教材标准或字段标准。\n教材依据\n已定位\n二、学情分析\n进入编辑\n三年级学生能直观看到颜色深浅、浓淡和鲜灰差异，但容易把渐变理解为把几种颜色并排涂上去。\n他们需要通过色卡排列、颜料试色或纸条排序，把颜色慢慢变化的规律变成可操作步骤。\n本版学情是备课预设，后续应接入课堂记录和教师确认修正。\n待确认\n三、教学目标\n进入编辑\n观察自然和作品中的色彩渐变，知道明度、纯度会影响渐变效果。\n能用调色、拼摆或绘画方式表现有秩序的色彩渐变。"
+      },
+      "pass": true
+    }
+  ],
+  "finished_at": "2026-07-09T09:27:06.968Z",
+  "case_count": 3,
+  "fail_count": 0,
+  "pass": true
+}
