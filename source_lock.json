@@ -1,0 +1,11 @@
+{
+  "stage": "1013V_VISUAL_SYSTEM_POLISH_LINE",
+  "phase": "V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY",
+  "source_v2c_path": "outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2C_R97B_VISUAL_HIERARCHY_AND_AESTHETIC_DIRECTION/v2c_direction_C_notebook_paper.html",
+  "source_v2c_sha256": "C68F08DF29C46B82F0D425207534D9AA2BEE3ED3A555EDB0B9F59B4365D21833",
+  "derived_v2d_path": "outputs/1013V_VISUAL_SYSTEM_POLISH_LINE/V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY/v2d_selected_C_converged_teacher_notebook_workbench.html",
+  "derived_v2d_sha256": "04B77A718B08B2B0508BC108B0955C366E2C1737E1150C364298CF94529FE664",
+  "source_v2c_modified": false,
+  "formal_apply": "NOT_READY",
+  "toolbar_policy": "kept-expanded-by-human-request"
+}
