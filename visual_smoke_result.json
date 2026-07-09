@@ -1,0 +1,13 @@
+{
+  "visual_smoke_completed": true,
+  "stage": "1013V_VISUAL_SYSTEM_POLISH_LINE",
+  "phase": "V2D_SELECTED_C_CONVERGENCE_WITH_A_STABILITY",
+  "case_count": 3,
+  "fail_count": 0,
+  "pass": true,
+  "screenshots": [
+    "screenshots/v2d_selected_C_1366.png",
+    "screenshots/v2d_selected_C_1600.png",
+    "screenshots/v2d_selected_C_2560.png"
+  ]
+}
